@@ -1,0 +1,16 @@
+hello привет
+привет hello
+good хорошо
+хорошо good
+evil зло
+зло evil
+water вода
+вода water
+sky небо
+небо sky
+earth земля
+земля earth
+space космос
+космос space
+sea море
+море sea
